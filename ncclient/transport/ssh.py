@@ -22,7 +22,6 @@ import socket
 import threading
 from binascii import hexlify
 from io import BytesIO as StringIO
-from tkinter import E
 
 try:
     import selectors
